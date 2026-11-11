@@ -1,0 +1,68 @@
+[
+  {
+    "path": "ckpts/MiniMax-H3-FL2VA-pruned_rank8_int8_convrot.safetensors",
+    "bytes": 21057674787,
+    "sha256": "30ff400f974b11a1ef13d216c5d9f6439a9c10322a3988b0374a39672ce286f0",
+    "source": "https://huggingface.co/DeepBeepMeep/MiniMax-H3/resolve/main/MiniMax-H3-FL2VA-pruned_rank8_int8_convrot.safetensors"
+  },
+  {
+    "path": "ckpts/MiniMax-H3-audio_vae_fp32.safetensors",
+    "bytes": 605429308,
+    "sha256": "37dddc2f3e6d5d5139d823d5ea283bbf304dadcb885b1ccda818aa13dade5ea2",
+    "source": "https://huggingface.co/DeepBeepMeep/MiniMax-H3/resolve/main/MiniMax-H3-audio_vae_fp32.safetensors"
+  },
+  {
+    "path": "ckpts/minimax_h3/minimax_h3_video_vae_int8_convrot.safetensors",
+    "bytes": 2811065256,
+    "sha256": "0cb8161a12166fb049a2c1295e6a4833fdc571effdab9ac0ed074b10f2d6646d",
+    "source": "https://huggingface.co/DeepBeepMeep/MiniMax-H3/resolve/main/minimax_h3/minimax_h3_video_vae_int8_convrot.safetensors"
+  },
+  {
+    "path": "ckpts/minimax_h3/minimax_h3_latent_upscaler_3d_bf16.safetensors",
+    "bytes": 690592992,
+    "sha256": "4f57821f5837f32f7142b67d815606dbd7550f194e5c769f7d6c3f83b146a5e6",
+    "source": "https://huggingface.co/DeepBeepMeep/MiniMax-H3/resolve/main/minimax_h3/minimax_h3_latent_upscaler_3d_bf16.safetensors"
+  },
+  {
+    "path": "ckpts/Qwen3-VL-32B-Instruct/qwen3vl-32B-MiniMax-H3-Q2_K.gguf",
+    "bytes": 8487968160,
+    "sha256": "5bbc11d0b3ef197c98df2ce8f05de8fbb8eb5917cd91c33d0b59f93759b34914",
+    "source": "https://huggingface.co/DeepBeepMeep/MiniMax-H3/resolve/main/Qwen3-VL-32B-Instruct/qwen3vl-32B-MiniMax-H3-Q2_K.gguf"
+  },
+  {
+    "path": "ckpts/Qwen3-VL-32B-Instruct/config.json",
+    "bytes": 1474,
+    "sha256": "d2dd0c60d01b9e195d9447c52da61c7302d28828524914c044d9c6e1b81d0427",
+    "source": "https://huggingface.co/DeepBeepMeep/MiniMax-H3/resolve/main/Qwen3-VL-32B-Instruct/config.json"
+  },
+  {
+    "path": "ckpts/Qwen3-VL-32B-Instruct/preprocessor_config.json",
+    "bytes": 390,
+    "sha256": "27225450ac9c6529872ee1924fcb0962ff5634834f817040f444118116f4e516",
+    "source": "https://huggingface.co/DeepBeepMeep/MiniMax-H3/resolve/main/Qwen3-VL-32B-Instruct/preprocessor_config.json"
+  },
+  {
+    "path": "ckpts/Qwen3-VL-32B-Instruct/tokenizer_config.json",
+    "bytes": 11004,
+    "sha256": "0a05d1d0c5b7205132d3815dbb5c3e9912c926a00e0bbf32f67f7afaaa200542",
+    "source": "https://huggingface.co/DeepBeepMeep/MiniMax-H3/resolve/main/Qwen3-VL-32B-Instruct/tokenizer_config.json"
+  },
+  {
+    "path": "ckpts/Qwen3-VL-32B-Instruct/tokenizer.json",
+    "bytes": 7032403,
+    "sha256": "a5d85b6dcc535e6b93115a9ef287e6132fdbf30270da6218194ba742261173c7",
+    "source": "https://huggingface.co/DeepBeepMeep/MiniMax-H3/resolve/main/Qwen3-VL-32B-Instruct/tokenizer.json"
+  },
+  {
+    "path": "ckpts/Qwen3-VL-32B-Instruct/vocab.json",
+    "bytes": 2776833,
+    "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+    "source": "https://huggingface.co/DeepBeepMeep/MiniMax-H3/resolve/main/Qwen3-VL-32B-Instruct/vocab.json"
+  },
+  {
+    "path": "loras/minimax_h3/minimax_h3_lightx2v_fl2v_turbo_4step_alpha16_v0.1.safetensors",
+    "bytes": 1383708328,
+    "sha256": "b2ae76a57b96a6cf473b61cec0185741629927ddaaf94be0a8c00f4f2a7f7899",
+    "source": "https://huggingface.co/DeepBeepMeep/MiniMax-H3/resolve/main/loras/minimax_h3_lightx2v_fl2v_turbo_4step_alpha16_v0.1.safetensors"
+  }
+]

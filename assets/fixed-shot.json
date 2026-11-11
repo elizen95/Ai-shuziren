@@ -1,0 +1,24 @@
+{
+  "prompt": "integrated_multimodal_description: [Shot 1] A single tripod-locked medium shot of exactly one centered chibi presenter. Match the opening and ending frame composition throughout. His head and shoulders stay the same size, with constant headroom, constant camera distance and fixed focal length. He remains upright at the same distance, wearing the same round glasses, dark blazer and light shirt. Empty flat chroma green background. He looks at the camera and talks with relaxed, synchronized lips. Around the middle of the line he makes one small open-palm gesture low at chest level, keeping his upper body in the same position, then lowers his hand. He blinks naturally. The presenter (S1) says <d>[Chinese] 大家好，欢迎来到数字人测试。今天我们聊聊，怎样让角色说话时，表情和口型看起来更自然。谢谢观看。</d>\noverall_soundscape: One clear calm Mandarin voice, natural conversational pace, with gentle pauses and quiet room tone. The voice comes only from the visible presenter.",
+  "video_prompt_type": "",
+  "model_type": "minimax_h3_fl2va_pruned",
+  "loras_multipliers": "0.5",
+  "negative_prompt": "zoom in, zoom out, dolly, push in, pull back, close-up, changing framing, changing subject size, leaning toward camera, changes in camera position or lens, cropped head, multiple people, duplicated character, subtitles, music, distorted hands, changing glasses",
+  "sliding_window_size": 362,
+  "num_inference_steps": 4,
+  "guidance_scale": 1,
+  "resolution": "1024x576",
+  "video_length": 362,
+  "sliding_window_discard_last_frames": 0,
+  "activated_loras": [
+    "minimax_h3_lightx2v_fl2v_turbo_4step_alpha16_v0.1.safetensors"
+  ],
+  "seed": 551823,
+  "audio_prompt_type": "",
+  "image_prompt_type": "SE",
+  "sliding_window_overlap": 18,
+  "overrides": "transformer_quantization='int8', attention_mode='sage2'",
+  "prompt_enhancer": "",
+  "sample_solver": "euler",
+  "config": "gguf_q2_k,int8_convrot"
+}
